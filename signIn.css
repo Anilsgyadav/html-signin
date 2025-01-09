@@ -1,0 +1,237 @@
+    * {
+        box-sizing: border-box;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .container {
+        background-image: url(./Image/2.jpg);
+        background-size: cover;
+        margin: 0px;
+    }
+    
+    .box {
+        width: 800px;
+        height: 500px;
+        margin: auto;
+        margin-top: 100px;
+    }
+    
+    .img {
+        float: left;
+        width: 50%;
+        height: 100%;
+    }
+    
+    .img1 {
+        float: left;
+        width: 100%;
+        height: 100%;
+        padding: 60px 0px 0px 0px;
+    }
+    
+    .login {
+        float: left;
+        width: 50%;
+        height: 100%;
+        border: 2px solid rgb(205, 166, 166);
+        box-shadow: 0px 3px 3px 0px rgb(96, 96, 96);
+        border-radius: 30px;
+    }
+    
+    .login1 {
+        float: right;
+        width: 100%;
+        height: 20%;
+    }
+    
+    .material-symbols-outlined {
+        color: white;
+        width: 25%;
+        height: 100%;
+        padding: 10px;
+        margin-left: 140px;
+    }
+    
+    .line {
+        float: right;
+        width: 100%;
+        height: 1px;
+        box-shadow: 0px 0px 5px 0px rgb(241, 125, 125);
+    }
+    
+    .form {
+        float: right;
+        width: 100%;
+        height: 400px;
+    }
+    
+    .username {
+        float: right;
+        width: 100%;
+        height: 65px;
+    }
+    
+    .user {
+        float: right;
+        width: 100%;
+        height: 30px;
+    }
+    
+    #user {
+        float: right;
+        width: 100%;
+        height: 30px;
+        margin-top: 0px;
+        color: white;
+        padding: 3px 0px 3px 10px;
+    }
+    
+    .user1 {
+        float: right;
+        width: 70%;
+        height: 35px;
+        margin-left: 15%;
+        margin-right: 15%;
+        border-radius: 10px;
+        border-color: gray;
+        box-shadow: 0px 3px 3px 0px black;
+        margin-top: -10px;
+    }
+    
+    .fa-solid {
+        float: left;
+        width: 13%;
+        height: 32px;
+        padding: 7px;
+        font-size: 20px;
+        color: white;
+        margin: 0px 0px 0px 40px;
+    }
+    
+    input {
+        float: left;
+        width: 60%;
+        height: 32px;
+        background-color: transparent;
+        text-align: center;
+        border: none;
+    }
+    
+    input::placeholder {
+        color: white;
+    }
+    
+    .option {
+        float: right;
+        width: 100%;
+        height: 25px;
+        margin-top: -8px;
+    }
+    
+    .checkbox {
+        float: left;
+        width: 10%;
+        height: 15px;
+        background-color: transparent;
+    }
+    
+    .remeber {
+        float: left;
+        width: 40%;
+        height: 23px;
+        color: white;
+        margin-left: -10px;
+        text-decoration: none;
+    }
+    
+    .forget {
+        float: left;
+        width: 40%;
+        height: 23px;
+        color: white;
+        margin-left: 40px;
+        text-decoration: none;
+        text-align: right;
+    }
+    
+    .button {
+        float: right;
+        width: 70%;
+        height: 32px;
+        margin-left: 15%;
+        margin-right: 15%;
+        margin-top: 6px;
+    }
+    
+    .submit {
+        width: 100%;
+        height: 100%;
+        background-color: rgb(231, 104, 125);
+        color: white;
+        font-size: 20px;
+        border-radius: 10px;
+        border: none;
+        box-shadow: 0px 3px 3px 0px rgb(206, 172, 172);
+    }
+    
+    #line {
+        margin-top: 10px;
+    }
+    
+    .another {
+        float: right;
+        width: 100%;
+    }
+    
+    #another {
+        text-align: center;
+        color: white;
+    }
+    
+    .app {
+        float: right;
+        width: 100%;
+        height: 79px;
+    }
+    
+    .fa-google {
+        color: white;
+        font-size: 25px;
+        margin-top: 20px;
+        margin-left: 60px;
+    }
+    
+    .fa-youtube {
+        color: white;
+        font-size: 25px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    .fa-linkedin {
+        color: white;
+        font-size: 25px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    .fa-facebook {
+        color: white;
+        font-size: 25px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    .fa-instagram {
+        color: white;
+        font-size: 25px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+    
+    .fa-twitter {
+        color: white;
+        font-size: 25px;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
